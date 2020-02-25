@@ -1,0 +1,19 @@
+C:\C Sharp\BillAutomation\bin\Debug\BillAutomation.exe.config
+C:\C Sharp\BillAutomation\bin\Debug\BillAutomation.exe
+C:\C Sharp\BillAutomation\bin\Debug\BillAutomation.pdb
+C:\C Sharp\BillAutomation\bin\Debug\MySql.Data.dll
+C:\C Sharp\BillAutomation\obj\Debug\BillAutomation.csprojResolveAssemblyReference.cache
+C:\C Sharp\BillAutomation\obj\Debug\BillAutomation.exe
+C:\C Sharp\BillAutomation\obj\Debug\BillAutomation.pdb
+\\pc182415\G\Arizona\BillAutomation\bin\Debug\BillAutomation.exe.config
+\\pc182415\G\Arizona\BillAutomation\obj\Debug\BillAutomation.exe
+\\pc182415\G\Arizona\BillAutomation\obj\Debug\BillAutomation.pdb
+\\pc182415\G\Arizona\BillAutomation\bin\Debug\BillAutomation.exe
+\\pc182415\G\Arizona\BillAutomation\bin\Debug\BillAutomation.pdb
+\\pc182415\G\Arizona\BillAutomation\obj\Debug\BillAutomation.csprojResolveAssemblyReference.cache
+C:\Users\839742\Documents\BillAutomation\bin\Debug\BillAutomation.exe.config
+C:\Users\839742\Documents\BillAutomation\obj\Debug\BillAutomation.exe
+C:\Users\839742\Documents\BillAutomation\obj\Debug\BillAutomation.pdb
+C:\Users\839742\Documents\BillAutomation\obj\Debug\BillAutomation.csprojResolveAssemblyReference.cache
+C:\Users\839742\Documents\BillAutomation\bin\Debug\BillAutomation.exe
+C:\Users\839742\Documents\BillAutomation\bin\Debug\BillAutomation.pdb
